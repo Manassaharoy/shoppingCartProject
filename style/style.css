@@ -1,0 +1,27 @@
+*, .footerc{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.header{
+    text-align: center;
+    padding: 15px;
+}
+
+.shoppingCart{
+    color: black;
+    text-align: center;
+    /* font-size: 5rem; */
+    background-color: #EBEBEB;
+}
+
+.inputSize{
+    
+    width: 80px;
+    font-size: 1rem;
+    display: inline;
+   
+    
+}
